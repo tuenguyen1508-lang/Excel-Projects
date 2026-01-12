@@ -3,7 +3,25 @@
 This project explores customer bike purchase behaviour using Excel, PivotTables, and interactive dashboards.
 
 ---
+### ✅ Recommendations
 
+- **Target Middle-Aged, Higher-Income Professionals**
+  - Design marketing campaigns and dashboards that highlight **commuting convenience, health benefits, and lifestyle**.
+  - Use messaging that connects bikes with **time-saving short trips** and **urban mobility**.
+
+- **Reposition for Younger Customers (Adolescents)**
+  - Since adolescents are not leading bike purchases, consider **student discounts**, **installment plans**, or **bundles** (e.g. helmet + lock + maintenance) to reduce barriers.
+  - Emphasise bikes as a **fun, social, and fitness-related** activity, not just a commute tool.
+
+- **Leverage Commute Patterns**
+  - Focus promotions on areas and segments with **short commute distances**, where bikes fit naturally into daily routines.
+  - For customers with longer commutes, market bikes as a **first/last mile solution** (e.g. to/from public transport), rather than the entire journey.
+
+- **Use the Dashboard for Ongoing Segmentation**
+  - Encourage users to **explore slicers** (Region, Education, Marital Status) to uncover **high-potential micro-segments** (e.g. “Married, North America, Graduate degree”) for tailored campaigns.
+  - Future iterations could include **conversion tracking** (before/after campaigns) and additional metrics like **frequency of use** or **preferred bike type** (if available).
+
+---
 ## 📂 Dataset Overview
 
 I worked with a customer dataset containing **13 columns** and **1,027 rows** (including headers).  
@@ -141,26 +159,6 @@ When filtering for **Single**, **Europe**, and **Bachelor’s**:
 
 - **Segment Slices (Single, Europe, Bachelor’s)**  
   Within this filtered segment, **middle-aged singles in Europe with a bachelor’s degree** show strong ownership patterns and a preference for bikes mainly over **short distances**.
-
----
-
-### ✅ Recommendations
-
-- **Target Middle-Aged, Higher-Income Professionals**
-  - Design marketing campaigns and dashboards that highlight **commuting convenience, health benefits, and lifestyle**.
-  - Use messaging that connects bikes with **time-saving short trips** and **urban mobility**.
-
-- **Reposition for Younger Customers (Adolescents)**
-  - Since adolescents are not leading bike purchases, consider **student discounts**, **installment plans**, or **bundles** (e.g. helmet + lock + maintenance) to reduce barriers.
-  - Emphasise bikes as a **fun, social, and fitness-related** activity, not just a commute tool.
-
-- **Leverage Commute Patterns**
-  - Focus promotions on areas and segments with **short commute distances**, where bikes fit naturally into daily routines.
-  - For customers with longer commutes, market bikes as a **first/last mile solution** (e.g. to/from public transport), rather than the entire journey.
-
-- **Use the Dashboard for Ongoing Segmentation**
-  - Encourage users to **explore slicers** (Region, Education, Marital Status) to uncover **high-potential micro-segments** (e.g. “Married, North America, Graduate degree”) for tailored campaigns.
-  - Future iterations could include **conversion tracking** (before/after campaigns) and additional metrics like **frequency of use** or **preferred bike type** (if available).
 
 ---
 
