@@ -3,7 +3,7 @@
 This project explores customer bike purchase behaviour using Excel, PivotTables, and interactive dashboards.
 
 ---
-### ✅ Recommendations
+### Recommendations
 
 - **Target Middle-Aged, Higher-Income Professionals**
   - Design marketing campaigns and dashboards that highlight **commuting convenience, health benefits, and lifestyle**.
@@ -22,7 +22,7 @@ This project explores customer bike purchase behaviour using Excel, PivotTables,
   - Future iterations could include **conversion tracking** (before/after campaigns) and additional metrics like **frequency of use** or **preferred bike type** (if available).
 
 ---
-## 📂 Dataset Overview
+## Dataset Overview
 
 I worked with a customer dataset containing **13 columns** and **1,027 rows** (including headers).  
 Key fields include:
@@ -42,26 +42,26 @@ Key fields include:
 
 ---
 
-## 1️⃣ Data Cleaning & Standardisation
+## Data Cleaning & Standardisation
 
-### 🔁 Removed Duplicates
+### Removed Duplicates
 To ensure accurate analysis, I removed duplicate records so that each row represents a **unique customer**.
 <img width="1867" height="693" alt="Screenshot 2025-11-21 212925" src="https://github.com/user-attachments/assets/3b1b6f19-402f-4471-837d-f1e950acb5e5" />
 
 
-### 🏷️ Made Categories More Readable
+### Made Categories More Readable
 - Replaced marital status codes **"M" / "S"** with full labels **"Married" / "Single"**.
 - Cleaned the **Gender** column to use consistent labels (e.g. **"Male"**, **"Female"**) so slicers and charts are easier to understand.
 <img width="1225" height="658" alt="Screenshot 2025-11-21 213200" src="https://github.com/user-attachments/assets/63220918-6775-4224-ad50-3833f0a0e07a" />
 <img width="1161" height="632" alt="Screenshot 2025-11-21 213245" src="https://github.com/user-attachments/assets/940aa86e-2b28-4073-b53a-fc3bd48acd18" />
 <img width="1620" height="636" alt="Screenshot 2025-11-21 213351" src="https://github.com/user-attachments/assets/d387350b-8371-4883-bbed-361d2b9e4c1e" />
 
-### 💰 Formatted Income for Consistency
+### Formatted Income for Consistency
 - Updated the **Income** column to show **three decimal places**, improving consistency and making summary statistics look more professional in tables and charts.
 <img width="119" height="619" alt="Screenshot 2025-11-21 213542" src="https://github.com/user-attachments/assets/57378122-df8f-4664-9dcf-3576e79997f4" />
 ---
 
-## 2️⃣ Feature Engineering: Age Brackets
+## Feature Engineering: Age Brackets
 
 There were many distinct age values, which made charts cluttered and harder to interpret.  
 To simplify, I created an **Age Bracket** field using `IF` functions:
@@ -75,11 +75,11 @@ This transformation turned raw ages into three clear segments that are easier to
 
 ---
 
-## 3️⃣ Pivot Tables & Charts
+## Pivot Tables & Charts
 
 Using the cleaned sheet, I created several **PivotTables** and linked **PivotCharts** to explore patterns in bike purchases.
 
-### 📊 Table & Chart 1 – Income vs Bike Purchase by Gender
+### Table & Chart 1 – Income vs Bike Purchase by Gender
 
 **Pivot:** Average Income by **Gender** and **Purchased Bike (Yes/No)**
 
@@ -92,11 +92,11 @@ Using the cleaned sheet, I created several **PivotTables** and linked **PivotCha
   - Bike purchased: **60,124**
 <img width="1473" height="531" alt="Screenshot 2025-11-22 093159" src="https://github.com/user-attachments/assets/4b111e8a-f674-4129-a2da-5a79f70bb787" />
 
-> 🔍 **Key Pattern:** For both males and females, customers who **purchased a bike** have **higher average income** than those who did not.
+> **Key Pattern:** For both males and females, customers who **purchased a bike** have **higher average income** than those who did not.
 
 ---
 
-### 🚴‍♂️ Table & Chart 2 – Commute Distance vs Bike Ownership
+### Table & Chart 2 – Commute Distance vs Bike Ownership
 
 **Pivot:** Commute Distance vs **Purchased Bike**
 
@@ -104,11 +104,11 @@ Using the cleaned sheet, I created several **PivotTables** and linked **PivotCha
 - For **5–10 miles** and **10+ miles**, customers tend to choose **other transportation modes** rather than bikes.
 <img width="1484" height="470" alt="Screenshot 2025-11-22 093227" src="https://github.com/user-attachments/assets/90c6a507-9f78-4ff2-97da-0550ed2ac743" />
 
-> 🔍 **Key Pattern:** Bikes are mainly used for **short-distance commuting**, not for medium or long-distance travel.
+>  **Key Pattern:** Bikes are mainly used for **short-distance commuting**, not for medium or long-distance travel.
 
 ---
 
-### 👥 Table & Chart 3 – Age Brackets vs Bike Purchase
+### Table & Chart 3 – Age Brackets vs Bike Purchase
 
 **Pivot:** Age Bracket vs **Purchased Bike**
 
@@ -120,7 +120,7 @@ Using the cleaned sheet, I created several **PivotTables** and linked **PivotCha
 
 ---
 
-## 4️⃣ Final “Bike Sales Dashboard”
+## Final “Bike Sales Dashboard”
 
 I consolidated everything into a **“Bike Sales Dashboard”** that includes the three main charts above.
 
@@ -144,9 +144,7 @@ When filtering for **Single**, **Europe**, and **Bachelor’s**:
 
 ---
 
-## 5️⃣ Insights & Recommendations 🚀
-
-### 🔎 Key Insights
+### Key Insights
 
 - **Income Effect**  
   Customers who purchase bikes tend to have **higher average incomes**, regardless of gender. Bikes may be positioned as a **lifestyle or commuting upgrade** rather than a purely budget option.
