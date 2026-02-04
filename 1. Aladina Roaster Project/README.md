@@ -1,11 +1,11 @@
 # ☕ Aladina Roasters Excel Dashboard Project
 
-## 🏢 Project Background  
+## Project Background  
 As a new franchise owner at **Aladina Roasters**, a coffee chain with three Australian locations, Minnie (hopefully me in the future haha) explored transactional data (Jan–Jun 2023) to understand customer behavior and improve operations. Minnie’s goal was to transform raw data into a dynamic **Excel dashboard** to uncover patterns, trends, and business opportunities.
 
 ---
 
-## 🎯 Objectives  
+## Objectives  
 
 - Prepare and profile the raw data  
 - Explore insights using **PivotTables**  
@@ -13,13 +13,13 @@ As a new franchise owner at **Aladina Roasters**, a coffee chain with three Aust
 
 ---
 
-## 📂 Data Preparation  
+## Data Preparation  
 
 I created new columns for **Revenue**, **Month**, **Weekday**, and **Hour**, highlighted them in light blue (my fav color hehe) for clarity, and cleaned data for analysis.
 
 ---
 
-## 📊 PivotTable Analysis  
+## PivotTable Analysis  
 
 Five PivotTables revealed insights by:
 
@@ -31,13 +31,13 @@ Five PivotTables revealed insights by:
 
 ---
 
-## 📈 Dashboard Development  
+## Dashboard Development  
 
 I added **PivotCharts**, a **slicer** for store location, and formatted visuals to enhance readability. The dashboard highlights sales dynamics clearly and interactively.
 
 ---
 
-## 💰 Financial Insights  
+## Financial Insights  
 
 - **Optimize hours:** Focus on 7–10 AM peaks; reduce low-traffic hours.  
 - **Boost marketing:** Promote before April to capture seasonal growth.  
