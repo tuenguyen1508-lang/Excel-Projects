@@ -1,7 +1,7 @@
 # Excel Financial Modelling from Scratch (End-to-End)
 
 ## Overview
-This project showcases my end-to-end **Excel financial modelling** practice — from building core **financial statements** and **costing models** to creating a **13-week cash flow forecast**, plus a **financial KPI dashboard** with advanced visualisations.
+This project showcases my end-to-end **Excel financial modelling** practice - from building core **financial statements** and **costing models** to creating a **13-week cash flow forecast**, plus a **financial KPI dashboard** with advanced visualisations.
 
 ## Key Topics Covered
 - **Financial Statement Modelling**
