@@ -16,6 +16,8 @@ This project showcases my end-to-end **Excel financial modelling** practice - fr
 ## Main Deliverable 1: 13-Week Cash Flow Forecast
 Built a complete **13-week cash flow forecast model** from scratch, including:
 
+<img width="2755" height="1134" alt="Screenshot 2026-05-31 230708" src="https://github.com/user-attachments/assets/72d3a6de-eb66-48e7-99a4-6cb403731458" />
+
 ### Data Preparation
 - Cleaned and structured the **source data**
 - Built a reusable **forecast template**
@@ -35,6 +37,8 @@ Developed an interactive **financial KPI dashboard**, including:
 - Raw data inputs and modelling layer
 - KPI calculations and summary tables
 - Charts that clearly communicate performance and trends
+
+<img width="2233" height="1137" alt="Screenshot 2026-05-31 230812" src="https://github.com/user-attachments/assets/931e674a-5ee6-494a-9213-2f0006b336e0" />
 
 ### Visualisations Included
 - Trending **column chart**
