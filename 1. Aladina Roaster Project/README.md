@@ -58,7 +58,14 @@ These sections below indicate my analysis:
 
 ![1759934312509](https://github.com/user-attachments/assets/f417b287-10d6-4ad4-8e6a-54d5de2d80fb)
 
+---
 
+## Tools & Skills Used
+- **Excel**: Used to clean, transform, analyse, and visualise transactional sales data in one workbook.
+- **PivotTables**: Used to summarise sales performance by month, weekday, hour, product category, and product type.
+- **PivotCharts**: Used to turn PivotTable results into clear visuals for easier pattern recognition.
+- **Slicers**: Used to make the dashboard interactive, allowing users to filter results by store location.
+- **Sales Analysis**: Used to identify revenue trends, customer demand patterns, and operational opportunities.
 
 
 
