@@ -25,6 +25,12 @@ Overbooking same-month reservations during peak summer can help:
 - Shift demand toward bookings with **lower cancellation risk**
 - Capture bookings at a **higher average price**, improving revenue resilience
 
+## Tools & Skills Used
+- **Excel:** Used to transform booking pivot table outputs into a clear, leadership-ready dashboard.
+- **PivotTables:** Used to summarise booking, cancellation, revenue, and seasonal performance patterns.
+- **Revenue Analysis:** Used to estimate cancellation-related revenue loss and identify high-impact periods.
+- **Seasonality Analysis:** Used to compare summer booking trends and identify peak revenue periods.
+
 ## Outcome
 A leadership-ready dashboard that supports decision-making around summer capacity strategy and cancellation risk management.
 
