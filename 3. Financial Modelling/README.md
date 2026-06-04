@@ -3,15 +3,17 @@
 ## Overview
 This project showcases my end-to-end **Excel financial modelling** practice - from building core **financial statements** and **costing models** to creating a **13-week cash flow forecast**, plus a **financial KPI dashboard** with advanced visualisations.
 
-## Key Topics Covered
-- **Financial Statement Modelling**
-- **Budgeting & Forecasting**
-- **Discounted Cash Flow (DCF) Analysis**
-- **What-if / Scenario Analysis**
-- **Project Costing Models**
-- **Activity-Based Costing (ABC)**
-- **Advanced Financial Techniques**
-- **Excel formula tips & productivity shortcuts**
+## Key Tools & Skills Covered
+- **Excel:** Used to build end-to-end financial models, forecasts, costing models, and KPI dashboards in one workbook.
+- **Financial Statement Modelling:** Used to structure core financial statements and understand business performance.
+- **Budgeting & Forecasting:** Used to estimate future cash flows, revenue, expenses, and financial needs.
+- **13-Week Cash Flow Forecasting:** Used to monitor short-term liquidity and support cash planning decisions.
+- **Discounted Cash Flow (DCF) Analysis:** Used to estimate business value based on projected future cash flows.
+- **Scenario / What-if Analysis:** Used to test how different assumptions affect financial outcomes.
+- **Project Costing Models:** Used to estimate, track, and analyse project-related costs.
+- **Activity-Based Costing (ABC):** Used to allocate costs more accurately based on business activities.
+- **Financial KPI Dashboarding:** Used to present key financial metrics, trends, and performance indicators clearly.
+- **Advanced Excel Charts:** Used to visualise trends, targets, uncertainty, and market share composition.
 
 ## Main Deliverable 1: 13-Week Cash Flow Forecast
 Built a complete **13-week cash flow forecast model** from scratch, including:
