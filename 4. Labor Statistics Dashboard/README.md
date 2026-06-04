@@ -52,7 +52,7 @@ The dashboard is interactive and allows users to scroll/select an industry. For 
 ## Key Insight
 The **Information** industry had the **highest average annual wage**. Wages increased each year, while employment remained relatively stable over time.
 
-## Tools & Skills
+## Tools & Skills Used
 - Excel (IFS, SUMIFS, AVERAGEIFS)
 - Data cleaning and preparation
 - Trend analysis
