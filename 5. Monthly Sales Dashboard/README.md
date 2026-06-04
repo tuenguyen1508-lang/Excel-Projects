@@ -76,7 +76,7 @@ The interactive dashboard allows users to choose a region and instantly view:
 - The highest-growth products varied considerably across New York, Los Angeles, and Chicago, suggesting that a single product strategy may not maximize performance across all markets.
 - Significant differences in revenue and growth between stores within the same region suggest opportunities to replicate successful practices from top-performing locations.
 
-## Tools & Skills
+## Tools & Skills Used
 - **Excel** (MAX, MAXIFS, IF, VLOOKUP, SUMIFS, RANK.AVG, INDEX/MATCH)
 - **Data cleaning & preparation**
 - **KPI reporting** (MoM, YoY, revenue comparisons)
