@@ -160,3 +160,10 @@ When filtering for **Single**, **Europe**, and **Bachelor’s**:
 
 ---
 
+### Tools & Skills Used
+- **Excel:** Used to clean, structure, analyse, and visualise customer bike purchase data in one workbook.
+- **PivotTables:** Used to summarise bike purchase patterns by income, gender, commute distance, and age group.
+- **PivotCharts:** Used to turn PivotTable results into clear visuals for easier comparison and insight discovery.
+- **Slicers:** Used to make the dashboard interactive, allowing users to filter insights by marital status, region, and education.
+- **Customer Segmentation:** Used to identify key buyer groups based on income, age, commute distance, education, and region.
+- **Sales Analysis:** Used to understand which customer groups were more likely to purchase bikes and why.
